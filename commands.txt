@@ -17,3 +17,35 @@
    17  git restore testing.py
    18  git status
    19  history
+    28  git remote add origin https://github.com/shimpa0913/GITHUB_FOLDER.git
+   29  git re,ote -v
+   30  git remote -v
+   31  git branch -M main
+   32  git status
+   33  git push origin master
+   34  git remote -v
+   35  
+   36  git remote -v
+   37  git push origin master
+   38  git remote -v
+   39  git push origin master
+   40  git remote -v
+   41  
+   42  git push origin master
+   43  git remote -v
+   44  git remote add origin https://github.com/shimpa0913/GITHUB_FOLDER.git
+   45  git remote -v
+   46  
+   47  git remote -v
+   48  git push origin master
+   49  clear
+   50  git remote add origin https://github.com/shimpa0913/GITHUB_FOLDER.git
+   51  git push -u origin main
+   52  git remote -v
+   53*
+   5
+   56  git push origin master
+   57  git push origin main
+   58  git clone https://github.com/shimpa0913/GITHUB_FOLDER.git
+   59  ls -a
+   60  history
